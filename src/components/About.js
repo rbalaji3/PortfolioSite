@@ -10,9 +10,9 @@ export default class About extends Component {
      <section id="about">
         <div className="row">
 
-           <div className="three columns">
+           <div className="three  columns">
 
-              <img className="profile-pic"  src="images/profilepic.jpg" alt="" />
+              <img className="profile-pic"  src="images/profilepic.jpg" radius="500"/>
            </div>
 
            <div className="nine columns main-col">
@@ -24,7 +24,7 @@ export default class About extends Component {
               }
               </p>
 
-             
+
            </div>
         </div>
      </section>
