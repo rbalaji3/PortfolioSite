@@ -12,7 +12,7 @@ export default class About extends Component {
 
            <div className="three  columns">
 
-              <img className="profile-pic"  src="images/profilepic.jpg" radius="500"/>
+              {/* <img className="profile-pic"  src="images/profilepic.jpg" radius="500"/> */}
            </div>
 
            <div className="nine columns main-col">
